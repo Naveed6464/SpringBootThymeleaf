@@ -13,7 +13,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 /**
  *
  * @author Naveedur Rahman
- * @email nmarahman@alinma.com
+ * @email naveed6464@gmail.com
  * @version 1.0
  * @since Jan 15, 2020
  */
